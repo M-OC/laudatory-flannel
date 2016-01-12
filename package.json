@@ -24,6 +24,7 @@
     "should": "8.0.2"
   },
   "dependencies": {
+    "async": "^1.5.2",
     "body-parser": "^1.14.2",
     "express": "4.4.5",
     "form-data": "^0.2.0",
